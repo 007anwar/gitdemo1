@@ -5,6 +5,6 @@ to test -d
 chekout -b
 new line inserted vai github
 new line in local
-new line added in master
+one more line in local
 
 
