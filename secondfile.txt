@@ -1,1 +1,2 @@
 git version of second file git chanegs added
+adding new function
