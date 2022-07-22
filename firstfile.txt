@@ -3,4 +3,4 @@ adding second line to file
 inside develop branch
 to test -d
 chekout -b
-inserting line for conflict vai github editor
+
