@@ -6,6 +6,6 @@ chekout -b
 new line inserted vai github
 new line in local
 one more line in local not changed
-adding random line in firstfile
+randome line in first file
 
 
