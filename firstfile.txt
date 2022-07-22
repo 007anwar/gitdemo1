@@ -2,7 +2,7 @@ this is a file for git demo
 adding second line to file
 inside develop branch
 to test -d
-chekout -b
+chekout -b GLOBAL FIRST
 new line inserted vai github
 new line in local
 one more line in local not changed
